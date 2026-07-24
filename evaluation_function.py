@@ -105,11 +105,11 @@ def evaluate_board(board, PIECE_SQUARE_TENSOR_WEIGHTING_FACTOR=1):
     total_score = 0
 
     for piece_type in range(chess.PAWN, chess.KING + 1):
-        # 1. Base Material Score
-        total_score += len(board.pieces(piece_type, chess.WHITE)) * MVV_LVA_VALUES[piece_type]
-        total_score -= len(board.pieces(piece_type, chess.BLACK)) * MVV_LVA_VALUES[piece_type]
+        # Base Material Score
+        total_score += len(board.pieces(piece_type, chess.WHITE)) * MATERIAL_VALUES[piece_type]
+        total_score -= len(board.pieces(piece_type, chess.BLACK)) * MATERIAL_VALUES[piece_type]
 
-        # 2. Positional Bonuses (PST)
+        # Positional Bonuses (PST)
         if piece_type in PST:
             for square in board.pieces(piece_type, chess.WHITE):
                 total_score += PST[piece_type][square] * PIECE_SQUARE_TENSOR_WEIGHTING_FACTOR
