@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2026.07.01"]
+[Round "?"]
+[White "lachlanl03"]
+[Black "luca_till"]
+[Result "1-0"]
+[TimeControl "180+2"]
+[WhiteElo "384"]
+[BlackElo "453"]
+[Termination "lachlanl03 won by checkmate"]
+[ECO "D08"]
+[EndTime "21:32:14 GMT+0000"]
+[Link "https://www.chess.com/game/live/170993230464?username=luca_till&move=0"]
+
+1. d4 d5 2. c4 e5 3. dxe5 dxc4 4. Qxd8+ Kxd8 5. e3 Bb4+ 6. Bd2 Nc6 7. Bxb4 Nxb4
+8. Kd1 Bg4+ 9. Be2 Nh6 10. h3 Bxe2+ 11. Nxe2 Nf5 12. a3 Nd3 13. Rf1 Nxb2+ 14.
+Kc2 Na4 15. Nbc3 Nxc3 16. Nxc3 Re8 17. Rfd1+ Ke7 18. Nd5+ Kd7 19. Nb6+ Kc6 20.
+Nxa8 Rxa8 21. Rd2 Re8 22. Rad1 Rxe5 23. Rd7 Rxe3 24. fxe3 Nxe3+ 25. Kc1 Nxd1 26.
+Rxd1 b5 27. Kb2 Kc5 28. Re1 b4 29. axb4+ Kxb4 30. Kc2 c3 31. Re7 a5 32. Rxc7 a4
+33. Rxc3 a3 34. Re3 a2 35. Re1 Ka3 36. Ra1 f5 37. Kd3 g5 38. Ke3 g4 39. Kf4 Kb2
+40. Rh1 gxh3 41. gxh3 h5 42. Kxf5 a1=Q 43. Rxa1 Kxa1 44. Kg5 Kb2 45. Kxh5 Kc3
+46. Kg5 Kd4 47. h4 Ke5 48. h5 Ke6 49. Kg6 Ke7 50. Kg7 Ke6 51. h6 Kf5 52. h7 Kg5
+53. h8=Q Kf5 54. Qe8 Kg5 55. Qe6 Kf4 56. Qd5 Kg4 57. Qe5 Kf3 58. Qd4 Kg3 59. Qe4
+Kf2 60. Qd3 Ke1 61. Qc2 Kf1 62. Qd2 Kg1 63. Qe2 Kh1 64. Kg6 Kg1 65. Kg5 Kh1 66.
+Kg4 Kg1 67. Kg3 Kh1 68. Qg2# 1-0
